@@ -43,4 +43,4 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 ---
 
 # Crediting:
-Please credit `@BlurryVision#3636` and provide a link to this [Discord](https://discord.gg/StfnB5C92z) server where applicable ([https://discord.gg/StfnB5C92z](https://discord.gg/StfnB5C92z)) . A link to my [Store](https://blurry.shop) would also be appreciated, but the discord is higher priority as it is a prerequisite for purchasing.
+Please credit `@BlurryVision#3636` and provide a link to this [Discord](https://discord.gg/StfnB5C92z) server where applicable ([https://discord.gg/StfnB5C92z](https://discord.gg/StfnB5C92z)) . A link to my [Store](https://www.blurry.shop/) would also be appreciated, but the discord is higher priority as it is a prerequisite for purchasing.
