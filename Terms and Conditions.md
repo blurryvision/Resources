@@ -6,6 +6,8 @@
 4. Chargebacks will result in immediate blacklisting of email/IP/discord/other info.
 5. For any questions/issues with your product access, please contact me on my [Discord Server](https://discord.gg/StfnB5C92z)
 
+---
+
 **I reserve the right to refuse/refund service and ban/blacklist users without appeal. Reasons for such may include but are not limited to:**
 1. Affiliation with leaking/ripping/theft
 2. Affiliation with malicious parties (usually including the above)
