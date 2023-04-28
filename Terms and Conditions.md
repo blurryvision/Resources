@@ -1,6 +1,6 @@
 # Store Rules
 
-1. Please read these rules, and [Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#terms-and-conditions) before making a purchase.
+1. Please read these rules, and [Terms and Conditions](https://github.com/blurryvision/Resources/blob/main/Terms%20and%20Conditions.md#terms-and-conditions) before making a purchase.
 2. If you'd like to purchase for someone else, please put their email address.
 3. No refunds will be given due to the nature of digital products except in special circumstances under my discretion.
 4. Chargebacks will result in immediate blacklisting of email/IP/discord/other info.
@@ -19,7 +19,7 @@
 
 # Terms and Conditions
 
-Please read the below thoroughly, as well as all [Store Rules](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#store-rules), and the product information for the product you're interested in before making a purchase.
+Please read the below thoroughly, as well as all [Store Rules](https://github.com/blurryvision/Resources/blob/main/Terms%20and%20Conditions.md#store-rules), and the product information for the product you're interested in before making a purchase.
 
 ## General Terms and Conditions:
 1. Do **NOT** redistribute any files from my products, services, or related channels. If you'd like to purchase for someone else, see #store-rules.
@@ -33,12 +33,10 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 9. You must credit when used for commercial usage or media (assuming you have commercial permission/license). Credit in personal usage would be appreciated.
 
 ## Asset Product Terms and Conditions:
-1. **All [General Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
+1. **All [General Terms and Conditions](https://github.com/blurryvision/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** use commercially unless you have permission (such as a commercial license)
 3. Do **NOT** resell alone. It must be used as part of a whole model if you have a commercial license.
 4. Do **NOT** resell as part of a product whose cost is cheaper than the personal license price of the asset.
-5. If the asset includes a scripted setup, do not include the scripts in any packages for redistribution. (See **[Script/Tool Product Terms and Conditions](https://github.com/JustSleightly/Resources/blob/main/Terms%20and%20Conditions.md#scripttool-product-terms-and-conditions)**)
-
 
 ---
 
