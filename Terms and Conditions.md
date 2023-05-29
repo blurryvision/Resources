@@ -38,9 +38,9 @@ Please read the below thoroughly, as well as all [Store Rules](https://github.co
 1. **All [General Terms and Conditions](https://github.com/blurryvision/Resources/blob/main/Terms%20and%20Conditions.md#general-terms-and-conditions) above apply**
 2. Do **NOT** use commercially unless you have permission (such as a commercial license)
 3. Do **NOT** resell alone. It must be used as part of a whole model if you have a commercial license.
-4. Do **NOT** resell as part of a product whose cost is cheaper than the personal license price of the asset.
+4. Do **NOT** resell as part of a product whose cost is cheaper than the license price of the asset.
 
 ---
 
 # Crediting:
-Please credit `@BlurryVision#3636` and provide a link to this [Discord](https://discord.gg/StfnB5C92z) server where applicable ([https://discord.gg/StfnB5C92z](https://discord.gg/StfnB5C92z)) . A link to my [Store](https://www.blurry.shop/) would also be appreciated, but the discord is higher priority as it is a prerequisite for purchasing.
+Please credit `@BlurryVision#3636` and provide a link to this [Discord](https://discord.gg/StfnB5C92z) server where applicable ([https://discord.gg/StfnB5C92z](https://discord.gg/StfnB5C92z)) . A link to my [Store](https://www.blurry.shop/) would also be appreciated, but the discord is higher priority.
